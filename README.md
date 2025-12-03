@@ -1,3 +1,13 @@
+# Hello, everyone! I'm MizukiKusumoto.
+This is my overview.
+
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=anaconda,azure,bitbucket,blender,cloudflare,cpp,css,discord,docker,fastapi,figma,firebase,flask,fortran,gcp,git,github,githubactions,gmail,html,js,jquery,kubernetes,latex,linux,md,mongodb,mysql,nextjs,nodejs,notion,npm,postgres,postman,prisma,py,react,stackoverflow,supabase,sketchup,tailwind,ts,ubuntu,unity,vercel,vscode,windows" />
+<br>
+
+
+## 🏃‍♀️ Activities
 <p>
   <a href="https://github.com/MizukiKusumoto">
     <img
